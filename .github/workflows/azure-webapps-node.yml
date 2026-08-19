@@ -28,7 +28,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: YOUR_WEB_APP_NAME
+  AZURE_WEBAPP_NAME: Agrivision
 
 jobs:
   deploy:
